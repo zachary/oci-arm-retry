@@ -151,7 +151,7 @@ def try_create_instance(subnet_id, ad_name, image_id):
             ),
             source_details=oci.core.models.InstanceSourceViaImageDetails(
                 image_id=image_id,
-                boot_volume_size_in_gbs=200,
+                boot_volume_size_in_gbs=100,
             ),
             create_vnic_details=oci.core.models.CreateVnicDetails(
                 subnet_id=subnet_id,
