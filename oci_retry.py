@@ -4,7 +4,7 @@ import datetime
 
 # ╔══════════════════════════════════════════════════════╗
 # ║  目標：VM.Standard.A1.Flex（ARM）                    ║
-# ║  規格：4 OCPU / 24 GB RAM / 200 GB 磁碟              ║
+# ║  規格：2 OCPU / 12 GB RAM / 200 GB 磁碟              ║
 # ║  架構：ARM (Ampere)                                  ║
 # ║  方案：Oracle Always Free（永久免費）                 ║
 # ║  OS  ：Canonical Ubuntu 22.04                        ║
